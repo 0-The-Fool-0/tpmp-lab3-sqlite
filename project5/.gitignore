@@ -1,0 +1,5 @@
+*.o
+state_app
+*.db
+out_blob.bin
+export.bin
